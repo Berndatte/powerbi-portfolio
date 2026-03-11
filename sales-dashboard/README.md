@@ -20,4 +20,5 @@ Superstore Sales Dataset
 - Power Query
 - DAX
 ## Dashboard Preview
+<img width="1533" height="798" alt="superstore" src="https://github.com/user-attachments/assets/2c3358f7-c48e-425e-b8f0-0ae44b95cf94" />
 
