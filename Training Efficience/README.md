@@ -7,3 +7,6 @@
   The results will help assess the effectiveness and relevance of the training sessions conducted and areas that need improvement. The results of the survey will be presented in a   Power BI dashboard.
 
 ## Dashboard Preview
+<img width="1232" height="722" alt="t1" src="https://github.com/user-attachments/assets/10e7305b-e764-435d-a8ec-4baec39281d7" />
+<img width="1244" height="710" alt="t2" src="https://github.com/user-attachments/assets/646bdc4f-f6bc-4488-a3f1-334d6b39c85d" />
+
